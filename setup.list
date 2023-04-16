@@ -1,8 +1,6 @@
 BouncyCastle.Crypto.dll
 Kopi.Base.NET.dll
 KopiCloudConfig.exe
-KopiCloudConfig.exe.config
-KopiCloudConfig.exe.manifest
 Microsoft.Bcl.AsyncInterfaces.dll
 Microsoft.Identity.Client.dll
 Microsoft.Identity.Client.Extensions.Msal.dll
