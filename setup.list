@@ -1,6 +1,7 @@
 BouncyCastle.Cryptography.dll
 Kopi.Base.NET.dll
 kopicloud-ad-api.ico
+KopiCloudConfig.application
 KopiCloudConfig.exe
 KopiCloudConfig.exe.config
 KopiCloudConfig.exe.manifest
